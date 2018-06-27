@@ -1,0 +1,122 @@
+Country,ISO 3166 Country Code,ISO639-2 Lang,Language,Date Format,Note,ISO 3166 Country Code,ISO639-2 Country Code
+Albania,sqi,sq,Albanian,YYYY-MM-DD,,ALB,AL
+United Arab Emirates,ara,ar,Arabic,DD/MM/YYYY,,ARE,AE
+Argentina,spa,es,Spanish,DD/MM/YYYY,,ARG,AR
+Australia,eng,en,English,D/MM/YYYY,"MDY is sometimes, but very rarely, seen in reference to established US culture, for instance the September 11 World Trade Centre attacks are still referred as ""9/11"", not ""11/9"". TV Commercials/News(occasionally) and Newspapers use MDY",AUS,AU
+Austria,deu,de,German,DD.MM.YYYY,,AUT,AT
+Belgium,fra,fr,French,DD/MM/YYYY,,BEL,BE
+Belgium,nld,nl,Dutch,D/MM/YYYY,,BEL,BE
+Bulgaria,bul,bg,Bulgarian,YYYY-M-D,,BGR,BG
+Bahrain,ara,ar,Arabic,DD/MM/YYYY,,BHR,BH
+Bosnia and Herzegovina,srp,sr,Serbian,DD/MM/YYYY,,BIH,BA
+Belarus,bel,be,Belarusian,DD/MM/YYYY,,BLR,BY
+Bolivia,spa,es,Spanish,DD/MM/YYYY,,BOL,BO
+Brazil,por,pt,Portuguese,DD/MM/YYYY,,BRA,BR
+Canada,fra,fr,French,yyyy-MM-dd,"All three main types are used in Canada Ð in French and in English.
+Social Insurance applications for Canada use DMY format.
+
+Passport applications and tax returns use YYYY MM DD.
+
+Immigration Canada Stamps use DD/MM/YYYY and Canada Customs Stamps use MMM/DD/YYYY.
+
+Nearly all English newspapers use MDY (MMM[M] D, YYYY).",CAN,CA
+Canada,eng,en,English,dd/MM/yyyy,,CAN,CA
+Switzerland,deu,de,German,dd.MM.yyyy,,CHE,CH
+Switzerland,fra,fr,French,dd.MM.yyyy,,CHE,CH
+Switzerland,ita,it,Italian,dd.MM.yyyy,,CHE,CH
+Chile,spa,es,Spanish,dd-MM-yyyy,,CHL,CL
+China,zho,zh,Chinese,yyyy-M-d,,CHN,CN
+Colombia,spa,es,Spanish,DD/MM/YYYY,,COL,CO
+Costa Rica,spa,es,Spanish,dd/MM/yyyy,,CRI,CR
+Cyprus,ell,el,Greek,dd/MM/yyyy,,CYP,CY
+Czech Republic,ces,cs,Czech,d.M.yyyy,,CZE,CZ
+Germany,deu,de,German,dd.MM.yyyy or YYYY/MM/DD,,DEU,DE
+Denmark,dan,da,Danish,dd-MM-yyyy or YYYY/MM/DD,"The format dd.mm.yyyy using dots (which denote ordinal numbering) is the traditional German date format. Since 1996-05-01, the international format yyyy-mm-dd has become the official standard date format, but the handwritten form d. 'month name' yyyy is also accepted . Standardization applies to all applications in the scope of the standard including uses in government, education, engineering and sciences. Since 2006, the old format (d)d.(m)m.(yy)yy is allowed again as alternative to the yyyy-mm-dd format in areas where there is no risk of ambiguation.",DNK,DK
+Dominican Republic,spa,es,Spanish,DD/MM/YYYY,,DOM,DO
+Algeria,ara,ar,Arabic,DD/MM/YYYY,,DZA,DZ
+Ecuador,spa,es,Spanish,dd/MM/yyyy,,ECU,EC
+Egypt,ara,ar,Arabic,dd/MM/yyyy,,EGY,EG
+Spain,spa,es,Spanish,d/MM/yyyy,,ESP,ES
+Spain,cat,ca,Catalan,dd/MM/yyyy,,ESP,ES
+Estonia,est,et,Estonian,d.MM.yyyy,,EST,EE
+Finland,fin,fi,Finnish,d.M.yyyy,,FIN,FI
+France,fra,fr,French,dd/MM/yyyy,,FRA,FR
+United Kingdom,eng,en,English,dd/MM/yyyy | YYYY/MM/DD | MM/DD/YYYY ,"Most style guides follow the DMY convention by recommending d mmmm yyyy (sometimes written dd/mm/yyyy) format in articles.
+However, some newspapers remain using the traditional historical MDY (e.g. mmmm d, yyyy Ð or similar) specifically in their banner print date only but use DMY in articles,[173] some use MDY for both the banner and articles,[174] while others stick to DMY for both.
+
+Also, YMD is used increasingly especially in applications associated with computers, and per British standard BS ISO 8601:2004,[176] avoiding the ambiguity of the numerical versions of the DMY/MDY formats.",GBR,GB
+Greece,ell,el,Greek,d/M/yyyy,,GRC,GR
+Guatemala,spa,es,Spanish,d/MM/yyyy,,GTM,GT
+Hong Kong,zho,zh,Chinese,YYYY/MM/DD or DD/MM/YYYY,,HKG,HK
+Honduras,spa,es,Spanish,DD/MM/YYYY,,HND,HN
+Croatia,hrv,hr,Croatian,dd.MM.yyyy.,,HRV,HR
+Hungary,hun,hu,Hungarian,yyyy.MM.dd.,,HUN,HU
+Indonesia,ind,in,Indonesian,dd/MM/yyyy,,IDN,ID
+India,hin,hi,Hindi,YYYY/MM/DD or DD/MM/YYYY,"In India, the DD-MM-YY is the predominant short form of the numeric date usage. Almost all government documents need to be filled up in the DD-MM-YYYY format. An example of DD-MM-YYYY usage is the passport application form. Though not yet a common practice, the BIS (Bureau of Indian Standards) of the Government of India introduced the standard named ""IS 7900:2001 (Revised in 2006) Data Elements And Interchange Formats - Information Interchange - Representation Of Dates And Times"" which officially recommends use of the date format YYYYMMDD, for example, 20130910 or 2013 09 10, or 2013-09-10 for the date 10 September 2013",IND,IN
+India,eng,en,English,d/M/yyyy,,IND,IN
+Ireland,gle,ga,Irish,dd/MM/yyyy,,IRL,IE
+Ireland,eng,en,English,dd/MM/yyyy,,IRL,IE
+Iraq,ara,ar,Arabic,dd/MM/yyyy,,IRQ,IQ
+Iceland,isl,is,Icelandic,d.M.yyyy,,ISL,IS
+Israel,heb,iw,Hebrew,dd/MM/yyyy,,ISR,IL
+Italy,ita,it,Italian,dd/MM/yyyy,,ITA,IT
+Jordan,ara,ar,Arabic,dd/MM/yyyy,,JOR,JO
+Japan,jpn,ja,Japanese,yyyy/MM/dd,,JPN,JP
+Japan,jpn,ja,Japanese,H24.MM.dd,,JPN,JP
+South Korea,kor,ko,Korean,yyyy. M. d,,KOR,KR
+Kuwait,ara,ar,Arabic,dd/MM/yyyy,,KWT,KW
+Lebanon,ara,ar,Arabic,dd/MM/yyyy,,LBN,LB
+Libya,ara,ar,Arabic,dd/MM/yyyy,,LBY,LY
+Lithuania,lit,lt,Lithuanian,yyyy.M.d,,LTU,LT
+Luxembourg,fra,fr,French,dd/MM/yyyy,,LUX,LU
+Luxembourg,deu,de,German,dd.MM.yyyy,,LUX,LU
+Latvia,lav,lv,Latvian,yyyy.d.M or DD.MM.YYYY,,LVA,LV
+Morocco,ara,ar,Arabic,dd/MM/yyyy,,MAR,MA
+Mexico,spa,es,Spanish,d/MM/yyyy,,MEX,MX
+Macedonia,mkd,mk,Macedonian,d.M.yyyy,,MKD,MK
+Malta,eng,en,English,dd/MM/yyyy,,MLT,MT
+Malta,mlt,mt,Maltese,dd/MM/yyyy,,MLT,MT
+Montenegro,srp,sr,Serbian,d.M.yyyy.,,MNE,ME
+Malaysia,msa,ms,Malay,dd/MM/yyyy,,MYS,MY
+Nicaragua,spa,es,Spanish,dd-MM-yyyy,,NIC,NI
+Netherlands,nld,nl,Dutch,d-M-yyyy,,NLD,NL
+Norway,nor,no,Norwegian,dd.MM.yyyy or YYYY/MM/DD,"dd.mm.yyyy; leading zeroes and century digits may be omitted, e.g., 10.02.15; ddmmyy (six figures, no century digits, no delimiters) allowed in tables. ISO dates yyyy-mm-dd can be used for ""technical"" purposes. The fraction form d/m-y is incorrect, but is common and considered passable in handwriting.",NOR,NO
+Norway,nor,no,Norwegian,dd.MM.yyyy,,NOR,NO
+New Zealand,eng,en,English,d/MM/yyyy,,NZL,NZ
+Oman,ara,ar,Arabic,dd/MM/yyyy,,OMN,OM
+Panama,spa,es,Spanish,DD/MM/YYYY,,PAN,PA
+Peru,spa,es,Spanish,dd/MM/yyyy,,PER,PE
+Philippines,eng,en,English,M/d/yyyy or MM/DD/YYYY,"English: mmmm dd, yyyy 
+DMY is also used in some other instances such as on the data page of passports and immigration and customs forms.
+Filipino: ika-dd ng mmmm, yyyy",PHL,PH
+Poland,pol,pl,Polish,dd.MM.yyyy,,POL,PL
+Puerto Rico,spa,es,Spanish,MM-dd-yyyy or DD/MM/YYYY,"English: mmmm d, yyyy
+Spanish: d de mmmm de yyyy",PRI,PR
+Portugal,por,pt,Portuguese,dd-MM-yyyy,Sometimes can be YYYY-MM-DD ,PRT,PT
+Paraguay,spa,es,Spanish,dd/MM/yyyy,,PRY,PY
+Qatar,ara,ar,Arabic,dd/MM/yyyy,,QAT,QA
+Romania,ron,ro,Romanian,dd.MM.yyyy,"(dd.mm.yyyy) Also widely used: (d)d-Mmm[3 letters of month name with the notable exception of Nov for November, which would otherwise be Noiembrie]-yyyy and (d)d-XII-yyyy (month number as a Roman numeral with lines above AND below, slowly deprecating)",ROU,RO
+Russia,rus,ru,Russian,dd.MM.yyyy,,RUS,RU
+Saudi Arabia,ara,ar,Arabic,dd/MM/yyyy or MM/DD/YYYY ,"(dd/mm/yyyy in Islamic and Gregorian calendar systems,[139][140] except for major companies, which conventionally use the American mm/dd/yyyy format.)",SAU,SA
+Serbia and Montenegro,srp,sr,Serbian,d.M.yyyy.,,SCG,CS
+Sudan,ara,ar,Arabic,dd/MM/yyyy,,SDN,SD
+Singapore,zho,zh,Chinese,dd/MM/yyyy,,SGP,SG
+Singapore,eng,en,English,M/d/yyyy,,SGP,SG
+El Salvador,spa,es,Spanish,DD/MM/YYYY,,SLV,SV
+Serbia,srp,sr,Serbian,d.M.yyyy.,,SRB,RS
+Slovakia,slk,sk,Slovak,d.M.yyyy,,SVK,SK
+Slovenia,slv,sl,Slovenian,YYYY-M-D,,SVN,SI
+Sweden,swe,sv,Swedish,yyyy-MM-dd,,SWE,SE
+Syria,ara,ar,Arabic,dd/MM/yyyy,,SYR,SY
+Thailand,tha,th,Thai,d/M/YYYY,,THA,TH
+Tunisia,ara,ar,Arabic,dd/MM/yyyy,,TUN,TN
+Turkey,tur,tr,Turkish,dd.MM.yyyy,,TUR,TR
+Taiwan,zho,zh,Chinese,yyyy/M/d,,TWN,TW
+Ukraine,ukr,uk,Ukrainian,dd.MM.yyyy,,UKR,UA
+Uruguay,spa,es,Spanish,dd/MM/yyyy,,URY,UY
+United States,eng,en,English,M/d/yyyy,,USA,US
+United States,spa,es,Spanish,M/d/yyyy,,USA,US
+Venezuela,spa,es,Spanish,dd/MM/yyyy,,VEN,VE
+Vietnam,vie,vi,Vietnamese,dd/MM/yyyy,,VNM,VN
+Yemen,ara,ar,Arabic,dd/MM/yyyy,,YEM,YE
+South Africa,eng,en,English,yyyy/MM/dd or DD/MM/YYYY,,ZAF,ZA
